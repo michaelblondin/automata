@@ -19,7 +19,7 @@ The online version of the book maintained by the authors will be updated progres
 
   $$(x=1)(y=1)(x\gets 0)(x= 0 \implies y \gets 1)(x \neq 1)$$
 
-## Acknowledgements for errata
+### Acknowledgements
 
 We thank these careful readers for spotting the above mistakes:
 
