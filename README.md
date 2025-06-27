@@ -6,6 +6,7 @@
 
 The online version of the book maintained by the authors will be updated progressively. The known issues of the printed version published by MIT Press appear here:
 
+* Example 1.6, p. 11, third item: $0\Sigma^*0$ should be $0 + 0\Sigma^*0$.
 * Chap. 3, p. 75, last paragraph: $\mathcal{L}(B) \subseteq \mathcal{L}(B)$ should be $\mathcal{L}(B) \subseteq \mathcal{L}(A)$.
 * Chap. 7, p. 170, Example 7.7: There is a missing transition and state. This run:
 
@@ -24,5 +25,6 @@ The online version of the book maintained by the authors will be updated progres
 We thank these careful readers for spotting the above mistakes:
 
 * [Pierre Ganty](https://github.com/pierreganty/)
+* [Mario A. Lopez, University of Denver](https://github.com/mmlopezz)
 * [Désirée Rentz](https://github.com/desiree-rentz)
 * [Matteo Zavatteri](https://github.com/matteozavatteri)
