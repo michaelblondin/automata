@@ -2,11 +2,17 @@
 
 ## Errata
 
-[Add an issue](https://github.com/blondimi/automata/issues) to report a typo, mistake, etc. Please indicate the version of the book you are referring to (and, if it is the online version, please further indicate its compilation date).
+[Add an issue](https://github.com/blondimi/automata/issues) to report a typo, mistake, etc. Please indicate the version of the book you are referring to (and, if it is the online version, please further indicate its compilation date). We will add you to the acknowledgements below.
 
 The online version of the book maintained by the authors will be updated progressively. The known issues of the printed version published by MIT Press appear here:
 
-* Example 1.6, p. 11, third item: $0\Sigma^*0$ should be $0 + 0\Sigma^*0$.
+* Chap. 1, p. 11, Example 1.6, third item: $0\Sigma^*0$ should be $0 + 0\Sigma^*0$.
+* Chap. 1, p. 24, Algorithm 1: $\mathcal{W} = \lbrace Q_0 \rbrace$ should be $\mathcal{W} \leftarrow \lbrace Q_0 \rbrace$.
+* Chap. 2, p. 409, Exercise 49, solution: Automaton $A_L$ must be slightly modified:
+  * $Q_L \cup \lbrace q_0 \rbrace$ should be $Q_L$
+  * The definitions of $\delta$ and $Q_L$ should be as follows:
+    * For every $K \in Q_L$ and every $a \in \Sigma$, we define $\delta(K, a) = \lbrace K' \in Q_L : K' \subseteq K^a \rbrace$
+    * $Q_0$ is the set of prime residuals included in $L$: $Q_0 = \lbrace K \in Q_L : K \subseteq L \rbrace$
 * Chap. 3, p. 75, last paragraph: $\mathcal{L}(B) \subseteq \mathcal{L}(B)$ should be $\mathcal{L}(B) \subseteq \mathcal{L}(A)$.
 * Chap. 7, p. 170, Example 7.7: There is a missing transition and state. This run:
 
@@ -24,7 +30,9 @@ The online version of the book maintained by the authors will be updated progres
 
 We thank these careful readers for spotting the above mistakes:
 
+* [Kacper Darowski](https://github.com/Opisek)
 * [Pierre Ganty](https://github.com/pierreganty/)
 * [Mario A. Lopez, University of Denver](https://github.com/mmlopezz)
 * [Désirée Rentz](https://github.com/desiree-rentz)
 * [Matteo Zavatteri](https://github.com/matteozavatteri)
+* [```vkrasotin```](https://github.com/vkrasotin)
