@@ -35,4 +35,4 @@ We thank these careful readers for spotting the above mistakes:
 * [Mario A. Lopez, University of Denver](https://github.com/mmlopezz)
 * [Désirée Rentz](https://github.com/desiree-rentz)
 * [Matteo Zavatteri](https://github.com/matteozavatteri)
-* [```vkrasotin```](https://github.com/vkrasotin)
+* [Valentin Krasotin](https://github.com/vkrasotin)
