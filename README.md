@@ -32,7 +32,7 @@ We thank these careful readers for spotting the above mistakes:
 
 * [Kacper Darowski](https://github.com/Opisek)
 * [Pierre Ganty](https://github.com/pierreganty/)
+* [Valentin Krasotin](https://github.com/vkrasotin)
 * [Mario A. Lopez, University of Denver](https://github.com/mmlopezz)
 * [Désirée Rentz](https://github.com/desiree-rentz)
 * [Matteo Zavatteri](https://github.com/matteozavatteri)
-* [Valentin Krasotin](https://github.com/vkrasotin)
