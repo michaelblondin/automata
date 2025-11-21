@@ -16,7 +16,7 @@ The online version of the book maintained by the authors will be updated progres
 * Chap. 2, p. 411, Exercise 55(b), solution: $L'$ should be defined as $L' = \{\varepsilon\}$ whenever $L = \emptyset$. Moreover
   a period is missing at the end of the next sentence.
 * Chap. 3, p. 75, last paragraph: $\mathcal{L}(B) \subseteq \mathcal{L}(B)$ should be $\mathcal{L}(B) \subseteq \mathcal{L}(A)$.
-* Chap. 3, p. 87, last paragraph: ~~that the algorithm obtained from *IntersNFA* by substituting **and** for **or** correctly computes an NFA for ℒ(*A₁*) ∪ ℒ(*A₂*). It could seem~~ (redundant sentence)
+* Chap. 3, p. 87, last paragraph: ~~that the algorithm obtained from *IntersNFA* by substituting **and** for **or** correctly computes an NFA for ℒ(*A₁*) ∪ ℒ(*A₂*). It could seem~~, and swap "**or** for **and**" to "**and** for **or**".
 * Chap. 3, p. 91, second line: " $Q_n$ are minimal " should be " $Q_n$ is minimal ".
 * Chap. 3, p. 421, Exercise 75, solution: "is a bijection" should be "yields a bijection".
 * Chap. 4, p. 101, Solution 1: *MemNFA*$[A]$($q_0$, $t$) should be *MemNFA*$[A_p]$($q_0$, $t$).
