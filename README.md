@@ -33,6 +33,8 @@ The online version of the book maintained by the authors will be updated progres
 
   $$(x=1)(y=1)(x\gets 0)(x= 0 \implies y \gets 1)(x \neq 1)$$
 
+* Chap. 9, p. 240, Example 9.8: "iff $(q + a \cdot \zeta)/2$" should be "iff $(q - a \cdot \zeta)/2$".
+
 ### Acknowledgements
 
 We thank these careful readers for spotting the above mistakes:
