@@ -21,6 +21,8 @@ The online version of the book maintained by the authors will be updated progres
 * Chap. 3, p. 421, Exercise 75, solution: "is a bijection" should be "yields a bijection".
 * Chap. 4, p. 101, Solution 1: *MemNFA*$[A]$($q_0$, $t$) should be *MemNFA*$[A_p]$($q_0$, $t$).
 * Chap. 5, p. 122, last paragraph: **Join**($R$, $\textit{Id}_x$) should be **Join**($R$, $\textit{Id}_X$).
+* Chap. 6, p. 132, Definition 6.2, second item: $\delta$ should be $\delta_M$.
+* Chap. 6, p. 134, Definition 6.4, third item: "projection" should be "restriction".
 * Chap. 7, p. 170, Example 7.7: There is a missing transition and state. This run:
 
   $$[1,1,1] \xrightarrow{x=1} [2,1,1] \xrightarrow{y=1} [3,1,1] \xrightarrow{x\gets 0} [4,0,1] \xrightarrow{x = 0 \implies y \gets 1} [5,0,1]$$
@@ -33,6 +35,7 @@ The online version of the book maintained by the authors will be updated progres
 
   $$(x=1)(y=1)(x\gets 0)(x= 0 \implies y \gets 1)(x \neq 1)$$
 
+* Chap. 7, p. 177: "to a forthcoming" should be "to the following"
 * Chap. 9, p. 240, Example 9.8: "iff $(q + a \cdot \zeta)/2$" should be "iff $(q - a \cdot \zeta)/2$".
 
 ### Acknowledgements
